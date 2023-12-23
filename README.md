@@ -15,7 +15,7 @@ This project is a brochure website for Ascent Group, showcasing detailed informa
 
 ## Live Demo
 
-You can view the live website hosted on GitHub Pages [here](https://ajv99.github.io/AscentBrochureSite/).
+You can view the live website hosted on GitHub Pages [here](https://ascentgroupmu.com/).
 
 ## Getting Started
 
